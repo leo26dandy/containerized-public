@@ -114,7 +114,7 @@ services:
 
     environment:
 
-      - MYSQL_ROOT_PASSWORD=kmzwa8awaa
+      - MYSQL_ROOT_PASSWORD=password_here
       # Optionally add more environment variables:
       # - MYSQL_DATABASE=your_database
       # - MYSQL_USER=your_user
